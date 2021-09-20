@@ -163,6 +163,10 @@ button {
     padding: 0 10px;
 }
 
+.footer_video_set .footer_icon:first-child {
+    padding-left: 10px;
+}
+
 .footer_video_info > .footer_icon_container {
     padding: 0 12px;
 }
